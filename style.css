@@ -1,12 +1,12 @@
 .download {
     background-color:  rgb(39, 39, 39);
-    color: gray;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 50px;
     font-family: sans-serif;
 }
 .link {
-    color: blue;
+    color: rgb(0, 255, 26);
     text-align: center;
     font-size: 25px;
     font-family: sans-serif;
@@ -31,7 +31,7 @@ body {
 }
 .sc {
     color: white;
-    text-align: center;
+    text-align: end;
     font-family: sans-serif;
     font-size: 25px;
 }
@@ -42,8 +42,10 @@ body {
 .discord {
     border:rgb(39, 39, 39);
     border:rgb(39, 39, 39);
+    display: flex;
 }
 .youtube {
+    display:inline-flex;
     border:rgb(39, 39, 39);
     border:rgb(39, 39, 39);
 }
